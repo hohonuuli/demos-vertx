@@ -2,7 +2,6 @@ package chapter2.hello;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Vertx;
 
